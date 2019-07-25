@@ -36,4 +36,4 @@ cd ..
 ./runAll.sh DroNetV3_car.cfg Car_Parking.mov
 ```
 
-## Now you can find images and annotation files in the folder images
+# Now you can find images and annotation files in the folder images
