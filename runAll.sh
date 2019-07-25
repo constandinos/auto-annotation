@@ -1,10 +1,14 @@
 #!/bin/bash
 
-rm -r images
-mkdir images
-
 VAR1="DroNet_car.cfg"
 VAR2="DroNetV3_car.cfg"
+
+if [ -d "./images" ]
+then
+	rm -r images
+fi
+
+mkdir images
 
 #DroNet
 if [ "$VAR1" = "$1" ]
