@@ -1,0 +1,2 @@
+https://github.com/pjreddie/darknet/issues/903
+https://github.com/AlexeyAB/darknet/

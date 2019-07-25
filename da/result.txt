@@ -1,0 +1,11 @@
+
+ seen 64 
+Enter Image Path:  Used AVX 
+ Not used FMA & AVX2 
+data/dog.jpg: Predicted in 10344.756000 milli-seconds.
+bicycle: 99%	(left_x:  117   top_y:  124   width:  452   height:  309)
+dog: 100%	(left_x:  124   top_y:  224   width:  196   height:  320)
+truck: 94%	(left_x:  474   top_y:   87   width:  217   height:   79)
+Enter Image Path: data/eagle.jpg: Predicted in 10178.572000 milli-seconds.
+bird: 99%	(left_x:  111   top_y:   89   width:  522   height:  353)
+Enter Image Path: 
